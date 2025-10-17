@@ -35,6 +35,7 @@ Modelado Automatizado: Se utilizó IBM Watson Studio y AutoAI para entrenar y ev
 Despliegue en la Nube: El modelo final fue desplegado como un punto final de API en línea a través de IBM Watson Machine Learning, listo para realizar inferencias en tiempo real.   
 
 Consumo de la API: Se desarrolló un script en Python para autenticarse con IBM Cloud y enviar datos de nuevos entrenamientos a la API, recibiendo una predicción de rendimiento como respuesta.
+
 Cómo Ejecutar el Proyecto
 Clona este repositorio:bash git clone https://github.com/tu-usuario/crossfit-performance-predictor.git
 
